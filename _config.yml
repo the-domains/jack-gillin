@@ -17,7 +17,32 @@ navigation:
     id: ea2309b1-4928-4e1b-b7d3-e623c65889cd
     type: content
 title: Jack Gillin
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58c55d7-4dc3-40dd-8f19-4d33066f824c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58c55d7-4dc3-40dd-8f19-4d33066f824c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Tech Entrepreneur
 github: true
 url: 'http://jackgillin.com/'
