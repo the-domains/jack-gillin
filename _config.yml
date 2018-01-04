@@ -1,22 +1,22 @@
-typography_spectrum: 0.5580022
-color:
-  saturation: 0.8495045
-  lightness: 0.1595059
-  brandStrength: 0.9957488
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#B4B4B4'
-    - '#919191'
-    - '#414141'
-  rhythmicContrast: 0.6407089
-layout_spectrum: 0.1745435
 name: Jack Gillin
-navigation:
-  - name: 1st Post
-    id: ea2309b1-4928-4e1b-b7d3-e623c65889cd
-    type: content
-title: Jack Gillin
+analytics: {}
+github: true
+description: Tech Entrepreneur
+author:
+  name: Jack Gillin
+  email: jgillin@mac.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -27,25 +27,40 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58c55d7-4dc3-40dd-8f19-4d33066f824c.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Tech Entrepreneur
-github: true
+navigation:
+  - id: ea2309b1-4928-4e1b-b7d3-e623c65889cd
+    name: 1st Post
+    type: content
+layout_spectrum: 0.1745435
+color:
+  lightness: 0.1595059
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#B4B4B4'
+    - '#919191'
+    - '#414141'
+  saturation: 0.8495045
+  brandStrength: 0.9957488
+  rhythmicContrast: 0.6407089
+content_rating:
+  adult: false
+typography_spectrum: 0.5580022
+opengraph: {}
+title: Jack Gillin
 url: 'http://jackgillin.com/'
-author:
-  name: Jack Gillin
-  email: jgillin@mac.com
